@@ -6,5 +6,6 @@ public class C4 {
         System.out.println("acıklmalar");
         // Hisesel kullanımda eski commit lere dönmek istediğimizde tek bir git komutu yeterli olur
         // ancak islemi yapmadan once projemizde commit yaparak son halini git e göndermeliyiz.
+
     }
 }
